@@ -1,0 +1,2 @@
+vcs- version control system is also known as revision control or source control system.It tracks and manages the changes to the file system.
+Popular software for vcs include like git,mercurial ,svn and some other.Among them git is widely used vcs system.It has an online GUI repository called github. 
